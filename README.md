@@ -8,7 +8,7 @@
 
 ### 💻 About Me
 
-- 🎓 I'm currently pursuing my **Master's in Computer Applications** at Vellore Institute of Technology.
+- 🎓 Completed my **Master's in Computer Applications** at Vellore Institute of Technology.
 - 🌟 I'm passionate about **Full-Stack Development**, building **scalable web applications**, and solving real-world problems.
 - 🤝 I’m looking to collaborate on projects related to **Web Development** and **Frontend Engineering**.
 - 📧 Reach me at: **laxitjain1212@gmail.com**
